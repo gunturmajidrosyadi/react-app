@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gunturmajidrosyadi/hakita-web.git/static/css/main.48bdbc6b.chunk.css",
+    "main.js": "/gunturmajidrosyadi/hakita-web.git/static/js/main.3409ad78.chunk.js",
+    "main.js.map": "/gunturmajidrosyadi/hakita-web.git/static/js/main.3409ad78.chunk.js.map",
+    "runtime-main.js": "/gunturmajidrosyadi/hakita-web.git/static/js/runtime-main.c1cccdce.js",
+    "runtime-main.js.map": "/gunturmajidrosyadi/hakita-web.git/static/js/runtime-main.c1cccdce.js.map",
+    "static/js/2.8440a7d9.chunk.js": "/gunturmajidrosyadi/hakita-web.git/static/js/2.8440a7d9.chunk.js",
+    "static/js/2.8440a7d9.chunk.js.map": "/gunturmajidrosyadi/hakita-web.git/static/js/2.8440a7d9.chunk.js.map",
+    "index.html": "/gunturmajidrosyadi/hakita-web.git/index.html",
+    "precache-manifest.9c91dc1d61ae4d7d200a2c016342aa1d.js": "/gunturmajidrosyadi/hakita-web.git/precache-manifest.9c91dc1d61ae4d7d200a2c016342aa1d.js",
+    "service-worker.js": "/gunturmajidrosyadi/hakita-web.git/service-worker.js",
+    "static/css/main.48bdbc6b.chunk.css.map": "/gunturmajidrosyadi/hakita-web.git/static/css/main.48bdbc6b.chunk.css.map",
+    "static/js/2.8440a7d9.chunk.js.LICENSE.txt": "/gunturmajidrosyadi/hakita-web.git/static/js/2.8440a7d9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1cccdce.js",
+    "static/js/2.8440a7d9.chunk.js",
+    "static/css/main.48bdbc6b.chunk.css",
+    "static/js/main.3409ad78.chunk.js"
+  ]
+}
