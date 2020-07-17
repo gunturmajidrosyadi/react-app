@@ -1,0 +1,36 @@
+.about{
+    margin-top: 60px;
+    height: 250px;
+    background-color: #26272A;
+    margin-bottom: 0;
+}
+.about-content{
+    padding-top: 50px;
+}
+.about-us{
+    padding-left: 30px;
+}
+.about-us p{
+    padding-left: 30px;
+    font-size: 15px;
+    color: #747777;
+}
+.about-us h4{
+    padding-left: 30px;
+    margin-bottom: 20px;
+    color: #f2f2f2;
+}
+.contact-us h4{
+    margin-bottom: 20px;
+    color: #f2f2f2;
+}
+.contact-us p{
+    font-size: 15px;
+    color: #747777;
+    line-height: 10px;
+}
+.contact-us img{
+    width: 30px;
+    color: #747777;
+    margin-right: 10px;
+}

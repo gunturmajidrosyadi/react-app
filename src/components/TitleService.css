@@ -1,0 +1,12 @@
+.title-service{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-service h1{
+    font-size: 55px;
+    font-weight: bold;
+    margin-bottom: 50px;
+}

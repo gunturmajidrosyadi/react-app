@@ -1,0 +1,27 @@
+
+.service-item{
+    display: flex;
+    justify-content: center;
+
+}
+.service-icon{
+    width: 100%;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    margin-top: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px 2px #888888;
+}
+.service-label{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.service-label h5{
+    font-weight: bold;
+}

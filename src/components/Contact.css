@@ -1,0 +1,42 @@
+.contact{
+    margin-top: 150px;
+}
+
+.contact-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact-title h1{
+    font-weight: bold;
+}
+.contact-item{
+    width: 100%;
+    height: 200px;
+    padding-left: 20px;
+    padding-top: 30px;
+    border-radius: 8px;
+    border: 1px solid #888888;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contact-section{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact-info p{
+    text-align: center;
+    line-height: 10px;
+}
+.contact-pict{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact-icon{
+    margin-bottom: 20px;
+}

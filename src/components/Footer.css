@@ -1,0 +1,18 @@
+.footer{
+    height: 100px;
+    background-color: #212224;
+    align-items: center;
+}
+.footer a{
+    font-size: 15px;
+    padding-right: 30px;
+    color: #747777;
+}
+.footer-page span{
+    color:#747777;
+}
+.footer-page{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
